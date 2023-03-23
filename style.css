@@ -1,4 +1,7 @@
 body{background-image: url(tyler.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
    }
 
 ul {color:rgb(104, 173, 194);
