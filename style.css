@@ -1,8 +1,25 @@
+h1 {background: black; color:rgb(98, 134, 235);} 
+p{ color:rgb(99, 161, 185);}
+li{color:rgb(129, 167, 238);}
+body{background-color: rgb(90, 84, 89);}
+
 body{background-image: url(tyler.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size:cover;
    }
+   
+header {
+    background: url ("urubudopix.jpeg");
+    background-position:center center;
+    background-size:cover
+}
+img left 
+
+
+    
+
+
 
 ul {color:rgb(104, 173, 194);
     text-align: center; 
